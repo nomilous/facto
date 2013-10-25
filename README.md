@@ -1,4 +1,4 @@
-`npm install facto` 0.0.1 [license](./license)
+`npm install facto` 0.0.2 [license](./license)
 
 **as yet unwritten**(ish) - api changes will definately occur (without deprecation warning)
 

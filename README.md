@@ -7,5 +7,6 @@ A collaborator.
 facto
 =====
 
-Inline test integrations. Onto the [team hub](https://github.com/nomilous/vertex). 
+metadata integrations <br/>
+onto the [team hub](https://github.com/nomilous/vertex). 
 

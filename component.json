@@ -1,0 +1,13 @@
+{
+  "name": "facto",
+  "repo": "nomilous/facto",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts" : [
+    "lib/facto.js.meta"
+  ]
+}
